@@ -1,0 +1,15 @@
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\bin\Debug\net7.0\CoinConvert.exe
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\bin\Debug\net7.0\CoinConvert.deps.json
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\bin\Debug\net7.0\CoinConvert.runtimeconfig.json
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\bin\Debug\net7.0\CoinConvert.dll
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\bin\Debug\net7.0\CoinConvert.pdb
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\obj\Debug\net7.0\CoinConvert.csproj.AssemblyReference.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\obj\Debug\net7.0\CoinConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\obj\Debug\net7.0\CoinConvert.AssemblyInfoInputs.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\obj\Debug\net7.0\CoinConvert.AssemblyInfo.cs
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\obj\Debug\net7.0\CoinConvert.csproj.CoreCompileInputs.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\obj\Debug\net7.0\CoinConvert.dll
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\obj\Debug\net7.0\refint\CoinConvert.dll
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\obj\Debug\net7.0\CoinConvert.pdb
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\obj\Debug\net7.0\CoinConvert.genruntimeconfig.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\CoinConvert\obj\Debug\net7.0\ref\CoinConvert.dll
